@@ -5,5 +5,5 @@ Ever forgot your script during an online meeting?? Hard to answer question while
 ### Here is your solution 😉😉
 
 Introducing Transparent Notes, the window will act as an overlay to your preferred meet. Type or paste anything you want.
-
+[Download Now](https://github.com/krithikV/transparentnotes/releases/tag/v1)
 ![](Screenshot.jpg)
