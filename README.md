@@ -10,7 +10,4 @@ Ever forgot your script during an online meeting?? Hard to answer question while
 
 Introducing Transparent Notes, the window will act as an overlay to your preferred meet. Type or paste anything you want.
 
-[![Download Transparent Notes](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/transparentnotes/files/latest/download)
-
-
 ![](Screenshot.jpg)
