@@ -1,6 +1,6 @@
 # Transparent Notes v1.0
 
-[![Download Transparent Notes](https://img.shields.io/sourceforge/dm/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download) [![Download Transparent Notes](https://img.shields.io/sourceforge/dw/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download) [![Download Transparent Notes](https://img.shields.io/sourceforge/dd/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download)[![Download Transparent Notes](https://img.shields.io/sourceforge/dt/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download)
+[![Download Transparent Notes](https://img.shields.io/sourceforge/dm/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download) [![Download Transparent Notes](https://img.shields.io/sourceforge/dw/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download) [![Download Transparent Notes](https://img.shields.io/sourceforge/dd/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download) [![Download Transparent Notes](https://img.shields.io/sourceforge/dt/transparentnotes.svg)](https://sourceforge.net/projects/transparentnotes/files/latest/download)
 
 Ever forgot your script during an online meeting?? Hard to answer question while teachers asking?? Forgetting things which you are taught??
 
